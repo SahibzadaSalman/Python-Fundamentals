@@ -1,5 +1,5 @@
 # Python-Fundamentals
-This repository contains all basic stuff needed to learn Python programming.
+This repository contains all the basics that you need to learn Python programming.
 We will start by first introducing Python language and why it is considered best for machine learning and data science.
 We will move on to cover the following topics:
   1) Data Types in Python 
